@@ -52,11 +52,11 @@ This project involves building a machine learning model to predict the **Total A
         - **R² Score**: 0.6330
 
 ## Folder Structure
-/Final_Project_ABS
-    /Final_Code             # Source code for all three tradelanes and the dataset 
-    /Test_Code              # Test codes and files to build the project
-    README.md           # Main documentation file
-    .gitignore          # Files/folders to ignore by Git
+- /Final_Project_ABS
+    - /Final_Code             # Source code for all three tradelanes and the dataset 
+    - /Test_Code              # Test codes and files to build the project
+    - README.md           # Main documentation file
+    - .gitignore          # Files/folders to ignore by Git
 
 
 ## Limitaions and Future Improvements
