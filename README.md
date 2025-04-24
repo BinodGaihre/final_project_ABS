@@ -60,7 +60,7 @@ This project involves building a machine learning model to predict the **Total A
         - **Mean Absolute Error (MAE)**: 8.31 days (Delivery Day Window)
         - **R² Score**: 0.6330
  
-## Limitaions and Future Improvements
+## Limitations and Future Improvements
 
 - Only 13 weeks of data. The model may better predict with more data, reducing the mean absolute error.
 - Unaccounted features within the dataset could cause potential issues in predictions. Incorporating them would yield better results.
