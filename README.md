@@ -63,7 +63,7 @@ This project involves building a machine learning model to predict the **Total A
 ## Limitations and Future Improvements
 
 - Only 13 weeks of data. The model may better predict with more data, reducing the mean absolute error.
-- Unaccounted features within the dataset could cause potential issues in predictions. Incorporating them would yield better results.
+- Unaccounted features that are outside of the dataset could cause potential issues in predictions. Incorporating them would yield better results.
 - With the addition of missing and unaccounted features, gradient boosting would be a better option for capturing complex data relationships and is more effective on imbalanced datasets.
 
 ## Data Source 
