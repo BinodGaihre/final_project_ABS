@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project involves building a machine learning model to predict the **Total Actual Days** it takes for a shipment to arrive for a company where one of our team members works. We have used data from the past three weeks, performed feature engineering (including calculating the geographical distance between ports), and applied Random Forest Regression to help improve the Delivery Day Window for logistics operations.
+This project involved building a machine learning model to predict the **Total Actual Days** it takes for a shipment to arrive for a company where one of our team members works. We have used data from the past three weeks, performed feature engineering (including calculating the geographical distance between ports), and applied Random Forest Regression to help improve the Delivery Day Window for logistics operations.
 
 ## Folder Structure
 
