@@ -66,4 +66,4 @@ This project involves building a machine learning model to predict the **Total A
 - With the addition of missing and unaccounted features, gradient boosting would be a better option for capturing complex data relationships and is more effective on imbalanced datasets.
 
 ## Data Source 
-
+- Provided by Freight Forwarding Company
