@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project involves building a machine learning model to predict the **Total Actual Days** it takes for a shipment to arrive for a company where one of our team members works. We have used data from the past three weeks, performed feature engineering (including calculating the geographical distance between ports), and applied Random Forest Regression to help improve the Delivery Day Window for logistics operations.
+This project involved building a machine learning model to predict the **Total Actual Days** it takes for a shipment to arrive for a company where one of our team members works. We have used data from the past three weeks, performed feature engineering (including calculating the geographical distance between ports), and applied Random Forest Regression to help improve the Delivery Day Window for logistics operations.
 
 ## Folder Structure
 
@@ -60,11 +60,11 @@ This project involves building a machine learning model to predict the **Total A
         - **Mean Absolute Error (MAE)**: 8.31 days (Delivery Day Window)
         - **R² Score**: 0.6330
  
-## Limitaions and Future Improvements
+## Limitations and Future Improvements
 
 - Only 13 weeks of data. The model may better predict with more data, reducing the mean absolute error.
-- Unaccounted features within the dataset could cause potential issues in predictions. Incorporating them would yield better results.
+- Unaccounted features that are outside of the dataset could cause potential issues in predictions. Incorporating them would yield better results.
 - With the addition of missing and unaccounted features, gradient boosting would be a better option for capturing complex data relationships and is more effective on imbalanced datasets.
 
 ## Data Source 
-- Provided by Freight Forwarding Company
+- Provided by Flexport Freight Forwarding Company
